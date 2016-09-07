@@ -1,0 +1,23 @@
+/* Styles go here */
+.header{
+	background-color:purple;
+	color:white;
+	padding:30px;
+}
+.menu{
+	display:incline-block;
+}
+.list{
+	padding:10px;
+}
+.menu a {
+	font-size:25px;
+	text-decoration:none;
+	background: DeepSkyBlue;
+	color:white;
+	margin:10px;
+	padding:10px;
+}
+.menu a:hover{
+	background: blue;
+}
